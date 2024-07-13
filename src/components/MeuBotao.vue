@@ -17,7 +17,7 @@
   };
   </script>
   
-  <style scoped>
+  <style>
   button {
     background-color: #42b983;
     color: white;
